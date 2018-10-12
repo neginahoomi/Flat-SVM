@@ -1,5 +1,5 @@
 # Flat Multi-label Text Classification
-A flat multi-label text classifier implemented with SVM, Naive Bayes, Maximum Entropy. This code is part of <a href="https://atrium.lib.uoguelph.ca/xmlui/handle/10214/14251">this</a> work. 
+A flat multi-label text classifier implemented with SVM, Naive Bayes, Maximum Entropy. This code is a simplified part of <a href="https://atrium.lib.uoguelph.ca/xmlui/handle/10214/14251">this</a> work.  
 
 # Requierments:
 Python 2.7
